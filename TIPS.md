@@ -12,4 +12,11 @@
 
 4. Configurar o arquivo app.js
 
-5.
+5. Instalar o Sucrase e o Nodemon como dependencia de desenvolvimento do App
+   `yarn add sucrase nodemon -D`
+
+6. Alterar as inportações dos arquivos para o modelos do JS6 import/export
+
+7. Criar arquivo de configuração do nodemon para trabalhar com o sucrase
+
+8. Criar a linha de chamada script no package.json
