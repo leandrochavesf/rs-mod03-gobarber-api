@@ -62,3 +62,12 @@
 
 24. Por o usar o sequelize com Postgress, é necessário as seguintes dependências:
     `yarn add pg pg-hstore`
+
+25. Criar os diretorios e rodar a criação da Migration de usuários usando o
+    CLI do sequelize
+    `yarn sequelize migration:create --name=create-users`
+
+26. Desenvolver e declarar os campos de cada coluna da tabela
+
+27. Configurado a migration, rodar ela pelo CLI
+    `yarn sequelize db:migrate`
