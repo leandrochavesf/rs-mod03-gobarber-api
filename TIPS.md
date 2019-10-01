@@ -86,4 +86,9 @@
 
 34. Enxugar o retorno de parametros para apenas alguns determinados em UserController.js
 
-35.
+35. Instalar o bcrypt para criar hashs para as senhas
+    `yarn add bcryptjs`
+
+36. Codar o módel user para dar hash nas senhas do usuário
+
+37.
