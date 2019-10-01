@@ -78,4 +78,12 @@
 
 30. Importar o arquivo database/index.js no arquivo app.js
 
-31.
+31. Criar o controller app/controller/UserController.js
+
+32. Importar UserController em Routes.js e configurar rota
+
+33. Desenvolver no UserController a identificação de duplicaçnao de emails
+
+34. Enxugar o retorno de parametros para apenas alguns determinados em UserController.js
+
+35.
