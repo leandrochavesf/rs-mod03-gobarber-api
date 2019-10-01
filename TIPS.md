@@ -50,4 +50,15 @@
 
 19. Configurar o .editorconfig
 
-20.
+20. Instalar o sequelize
+    `yarn add sequelize`
+
+21. Instalar a CLI do sequelize como dependencia de desenvolvimento
+    `yarn add sequelize-cli -D`
+
+22. Criar o arquivo .sequelizerc para as configs e configura as paths necessárias
+
+23. Cria o arquivo src/config/database.js
+
+24. Por o usar o sequelize com Postgress, é necessário as seguintes dependências:
+    `yarn add pg pg-hstore`
