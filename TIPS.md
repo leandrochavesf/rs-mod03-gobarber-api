@@ -71,3 +71,7 @@
 
 27. Configurado a migration, rodar ela pelo CLI
     `yarn sequelize db:migrate`
+
+28. Criar o model de Users em app/models/User.js
+
+29.
