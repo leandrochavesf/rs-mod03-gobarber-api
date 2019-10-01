@@ -20,3 +20,34 @@
 7. Criar arquivo de configuração do nodemon para trabalhar com o sucrase
 
 8. Criar a linha de chamada script no package.json
+
+9. Instalar o eslint
+   `yarn add eslint`
+
+10. Rodar o eslint
+    `yarn eslint --init`
+
+11. Como o eslint baixa dependencias via npm, excluir o package-lock.json e
+    rodar um yarn no temrinal
+    `yarn`
+
+12. Instalar o plugin do ESlint no VSCode
+
+13. Realizar as configurações de autofix do eslint no Preferences do VSCode
+
+14. Adicionar as Rules do eslint no arquivo .eslintrc
+
+15. Instalar o Prettier
+    `yarn add prettier eslint-config-prettier eslint-plugin-prettier -D`
+
+16. Declarar o prettier em extends, plugin e rules do .eslintrc
+
+17. Criar o arquivo .prettierrc para sobscrever algumas regras de formatação
+    aplicadas equivocadamente.
+
+18. Corrigir todos os arquivos iniciais com o eslint automaticamente
+    `yarn eslint --fix src --ext .js`
+
+19. Configurar o .editorconfig
+
+20.
