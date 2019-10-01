@@ -74,4 +74,8 @@
 
 28. Criar o model de Users em app/models/User.js
 
-29.
+29. Criar o arquivo database/index.js
+
+30. Importar o arquivo database/index.js no arquivo app.js
+
+31.
