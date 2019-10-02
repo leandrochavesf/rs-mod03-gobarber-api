@@ -100,4 +100,6 @@
 
 40. Criar o arquivo auth.js e colocar dados de autenticação da aplicação
 
-41.
+41. Criar o middleware para autenticação em app/middlewares/auth.js
+
+42.
