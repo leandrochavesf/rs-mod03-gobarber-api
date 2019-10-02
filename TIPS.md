@@ -89,6 +89,15 @@
 35. Instalar o bcrypt para criar hashs para as senhas
     `yarn add bcryptjs`
 
-36. Codar o módel user para dar hash nas senhas do usuário
+36. Codar o model user para dar hash nas senhas do usuário
 
-37.
+37. Instalar o Json Web Token
+    `yarn add jsonwebtoken`
+
+38. Criar o Controller SessionController.js
+
+39. Criar a rota para acessar o SessionController
+
+40. Criar o arquivo auth.js e colocar dados de autenticação da aplicação
+
+41.
