@@ -103,3 +103,8 @@
 41. Criar o middleware para autenticação em app/middlewares/auth.js
 
 42. Criar o metodo de update de usuário em UserControlller.js
+
+43. Instalar o Yup para trabalhar com validações na aplicação
+    `yarn add yup`
+
+44. Aplicar aos métodos onde há entrada do usuário (User e Session Controllers)
