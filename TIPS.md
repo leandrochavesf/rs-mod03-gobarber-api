@@ -108,3 +108,16 @@
     `yarn add yup`
 
 44. Aplicar aos métodos onde há entrada do usuário (User e Session Controllers)
+
+45. Instalar o multer para lidar com arquivos na aplicação
+    `yarn add multer`
+
+46. Criar a pasta tmp/uploads na raiz da aplicação
+
+47. Crie a configuração do multer em app/config/multer.js
+
+48. Configurar o multer
+
+49. Adicionar os parametros de arquivos e rotas no routes.js
+
+50.
