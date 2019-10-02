@@ -102,4 +102,4 @@
 
 41. Criar o middleware para autenticação em app/middlewares/auth.js
 
-42.
+42. Criar o metodo de update de usuário em UserControlller.js
