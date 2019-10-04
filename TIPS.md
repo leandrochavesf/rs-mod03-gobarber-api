@@ -120,4 +120,26 @@
 
 49. Adicionar os parametros de arquivos e rotas no routes.js
 
-50.
+50. Criar o FileController e ajustar as rotas para chamar o Controller
+
+51. Criar uma nova tabela no BD para Files usando as migrations
+    `yarn sequelize migration:create --name=create-files`
+
+52. Configurado a migration de files, rodar ela pelo CLI
+    `yarn sequelize db:migrate`
+
+53. Criar o model para Files
+
+54. Não esquecer de importar o model no arquivo /app/database/index.js
+
+55. Criar uma migration para adicionar uma nov coluna na tabela de Users
+    `yarn sequelize migration:create --name=add-avatar-field-to-users`
+
+56. Rodar novamente
+    `yarn sequelize db:migrate`
+
+57. Criar uma associação no Model User
+
+58. Configurar em /app/database/index.js a associação criada
+
+59.
