@@ -147,3 +147,15 @@
 60. Criar um campo virtual no Model de file para disponibilizar uma URL do avatar
 
 61. Declarar no app.js o middleware para uso de arquivos estáticos
+
+62. Criar a Migration de agendamentos
+    `yarn sequelize migration:create --name=appointments`
+
+63. Rodar novamente
+    `yarn sequelize db:migrate`
+
+64. Criar o model para appointments
+
+65. N'ao esquecer de configurar em /app/database/index.js a associação criada
+
+66.
