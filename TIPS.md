@@ -160,4 +160,9 @@
 
 66. Criar o controller de Appointment e configurar a rota
 
-67.
+67. Instalar library para lidar com datas
+    `yarn add date-fns@next`
+
+68. Desenvolver verificações de horário nas datas enviadas ao usuário
+
+69.
