@@ -165,4 +165,6 @@
 
 68. Desenvolver verificações de horário nas datas enviadas ao usuário
 
-69.
+69. Criar o método index no AppointmentController.js
+
+70
