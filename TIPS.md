@@ -156,6 +156,8 @@
 
 64. Criar o model para appointments
 
-65. N'ao esquecer de configurar em /app/database/index.js a associação criada
+65. Não esquecer de configurar em /app/database/index.js a associação criada
 
-66.
+66. Criar o controller de Appointment e configurar a rota
+
+67.
