@@ -167,4 +167,4 @@
 
 69. Criar o método index no AppointmentController.js
 
-70
+70. Criar o controller ScheduleController.js e configurar rotas
