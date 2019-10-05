@@ -142,4 +142,8 @@
 
 58. Configurar em /app/database/index.js a associação criada
 
-59.
+59. Agpra, trabalhar no Controller de Providers, ciar o /app/controllers/ProviderController.js
+
+60. Criar um campo virtual no Model de file para disponibilizar uma URL do avatar
+
+61. Declarar no app.js o middleware para uso de arquivos estáticos
