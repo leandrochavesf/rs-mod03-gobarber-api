@@ -168,3 +168,14 @@
 69. Criar o método index no AppointmentController.js
 
 70. Criar o controller ScheduleController.js e configurar rotas
+
+71. Agora, será instanciado um banco não relacional para isso, será usado o docker
+    passando o seguinte comando para instalar o container no MongoDb
+    `docker run --name mongobarber -p 27017:27017 -d -t mongo`
+
+72. Instalar a library que se comunica com o MongoDB
+    `yarn add mongoose`
+
+73. Configurar a conexão do Mongoose no database/index.js
+
+74.
