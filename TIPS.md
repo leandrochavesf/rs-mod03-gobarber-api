@@ -178,4 +178,11 @@
 
 73. Configurar a conexão do Mongoose no database/index.js
 
-74.
+74. Para trabalhar com o BDs não relacionais, vamos criar schemas, que são
+    similares aos models em sua funcionalidade, onde determinam como os dados
+    serão injetados dentro do BD. Para isso será criado e configurado o arquivo
+    app/schemas/notification.js
+
+75. Aplicar as notificações ao AppointmentController.js
+
+76.
