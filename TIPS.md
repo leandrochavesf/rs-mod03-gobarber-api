@@ -191,4 +191,6 @@
 77. Criar o metodo update de NotificationController.js para setar as notificações
     já lidas.
 
-78.
+78. Então criar o método destroy para cancelamento de agendamento no AppointmentController.js
+
+79.
