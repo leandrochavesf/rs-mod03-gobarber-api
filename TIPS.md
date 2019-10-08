@@ -185,4 +185,10 @@
 
 75. Aplicar as notificações ao AppointmentController.js
 
-76.
+76. Criar a app/controllers/NotificationController.js e configurar o método
+    index para listar as notificações
+
+77. Criar o metodo update de NotificationController.js para setar as notificações
+    já lidas.
+
+78.
