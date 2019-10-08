@@ -193,4 +193,13 @@
 
 78. Então criar o método destroy para cancelamento de agendamento no AppointmentController.js
 
-79.
+79. Instalar o nodemailer
+    `yarn add nodemailer`
+
+80. Criar o arquivo app/config/mail.js e adicioanr as configurações do nodemailer
+
+81. Criar conta no mailtrap e adicionar os dados a app/config/mail.js
+
+82. Criar o arquivo lib/Mail.js que de fato terá as funções de envio de email
+
+83. Configurar o AppointmentController.js para o envio de email nos métodos necessários
