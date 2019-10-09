@@ -215,3 +215,24 @@
     app/views/emails/cancellation.hbs
 
 87. Codificar as linhas que serão usadas no AppointmentController.js
+
+88. Para colcoar o envio de email em uma job paralela, vamos usar o Redis, para isso:
+    `docker run --name redisbarber -p 6379:6379 -d -t redis:alpine`
+
+89. Instalar a ferramenta de gerenciamento de filas para usar com o Redis
+    `yarn add bee-queue`
+
+    Obs: Em situações mais engenhosas, onde se precise de um gerenciamento de filas com mais recursos,
+    pode-se usar o kue.
+
+90. Criar o arquivo lib/Queue.js
+
+91. Criar o arquivo app/jobs/CancellationMail.js
+
+92. Criar o arquivo de configuração do Redis config/Redis.js
+
+93. Configurar no AppointmentController as novas funcionalidades implementadas
+
+94. Criar o arquivo ./queue.js para iniciar a funcionalidade de Queues
+
+95.
