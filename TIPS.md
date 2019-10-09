@@ -203,3 +203,15 @@
 82. Criar o arquivo lib/Mail.js que de fato terá as funções de envio de email
 
 83. Configurar o AppointmentController.js para o envio de email nos métodos necessários
+
+84. Instalar o Handlebars para trabalhar com templates html mais personalizadas para os emails
+    `yarn add express-handlebars nodemailer-express-handlebars`
+
+85. Importar as novas libs dentro de lib/Mail.js
+
+86. Criar as pastas e arquivos, e desenvolve-los:
+    app/views/emails/layouts
+    app/views/emails/partials
+    app/views/emails/cancellation.hbs
+
+87. Codificar as linhas que serão usadas no AppointmentController.js
