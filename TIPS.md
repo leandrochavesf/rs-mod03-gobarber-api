@@ -235,4 +235,8 @@
 
 94. Criar o arquivo ./queue.js para iniciar a funcionalidade de Queues
 
-95.
+95. Não esquecer de adicionar a Queue no package.json para rodar com sucrase
+
+96. Usar as notificações do bee.on() para monitorar falhas de envio de email
+
+97.
