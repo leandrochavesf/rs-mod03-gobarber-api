@@ -256,3 +256,10 @@
 
 103. Instalar o youch para cuidar do tratamento de exceções e aplicar ao app.js
      `yarn add youch`
+
+104. Instalar o dotenv para carregar as variaveis ambiente dentro da aplicação
+     `yarn add dotenv`
+
+105. Importar o dotenv no app.js, no queue.js e no config/database.js
+
+106. Aplicar as Variaveis Ambiente aos arquivos necessários
