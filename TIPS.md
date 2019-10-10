@@ -239,4 +239,6 @@
 
 96. Usar as notificações do bee.on() para monitorar falhas de envio de email
 
-97.
+97. Criar o arquivo app/controllers/AvailableController e configurar rotas
+
+98.
