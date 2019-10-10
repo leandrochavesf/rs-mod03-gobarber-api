@@ -243,3 +243,16 @@
 
 98. Modificar o app/models/Appointment.js para trazer informações sobre o passado
     das requisições de Appointment
+
+99. Implementar o Sentry para fazer o monitoramento de exceções no app
+    `yarn add @sentry/node@5.7.0`
+
+100. Criar o arquivo config/sentry.js e adicionar a dsn dada pelo painel do Sentry
+
+101. Importar o sentry no app.js
+
+102. Instalar a extensão para captar erros vindos do Async no express e importar no app.js
+     `yarn add express-async-errors`
+
+103. Instalar o youch para cuidar do tratamento de exceções e aplicar ao app.js
+     `yarn add youch`
