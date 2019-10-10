@@ -241,4 +241,5 @@
 
 97. Criar o arquivo app/controllers/AvailableController e configurar rotas
 
-98.
+98. Modificar o app/models/Appointment.js para trazer informações sobre o passado
+    das requisições de Appointment
