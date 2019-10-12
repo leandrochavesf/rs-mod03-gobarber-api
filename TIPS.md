@@ -263,3 +263,16 @@
 105. Importar o dotenv no app.js, no queue.js e no config/database.js
 
 106. Aplicar as Variaveis Ambiente aos arquivos necessários
+
+107. Instalar o cors para permitir que outras aplicações acessem a api
+     `yarn add cors`
+
+108. Importar o cors dentro de app.js
+
+109. Em SessionController.js, aplicar o model File para que retorne dados sobre
+     o avatar do usuário
+
+110. Em UserController.js, aplicar o model File no método update para que retorne
+     dados sobre o avatar do usuário
+
+111. No ScheduleController.js, aplicar o include de User para retornar o nome do usuário
